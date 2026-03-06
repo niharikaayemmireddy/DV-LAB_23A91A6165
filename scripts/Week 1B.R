@@ -1,6 +1,6 @@
 # DV Lab – Week 01B
-# Name:K.Sarveswara Rao
-# Roll No:23A91A6187
+# Name:Niharika Yemmireddy
+# Roll No:23A91A6165
 
 library(ggplot2)
 
