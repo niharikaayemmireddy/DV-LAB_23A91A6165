@@ -23,3 +23,4 @@ p1
 
 # Save plot
 ggsave("plots/week1B_plot_-1.png", plot = p1)
+
